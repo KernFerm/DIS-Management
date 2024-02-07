@@ -2,7 +2,10 @@
 
 This is a simple batch script for Windows that uses the Deployment Image Servicing and Management (DISM) tool to check the health of your system image and repair it if necessary.
 
+# YOU CAN USE THE .EXE TO RUN THIS APPLICATION
+
 # CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
+
 
 ## Usage
 
