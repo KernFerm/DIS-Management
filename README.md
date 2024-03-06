@@ -1,3 +1,6 @@
+- ##   there are no issues with this game , if you want to FORK it GO FORK IT!!!!
+- ##   make account to FORK REPO
+
 # Deploy Image Servicing & Management Batch Script  
 
 This is a simple batch script for Windows that uses the Deployment Image Servicing and Management (DISM) tool to check the health of your system image and repair it if necessary.
