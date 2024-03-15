@@ -21,7 +21,10 @@ This is a simple batch script for Windows that uses the Deployment Image Servici
 
 Here's a breakdown of what each line in the script does:
 
+
 ```bat
-@echo off                             # Prevents the command prompt from displaying the commands in the script as they run
-DISM /Online /Cleanup-image /Restorehealth    # Checks the health of your system image and repairs it if necessary
-pause                                 # Waits for the user to press a key before closing the command prompt window
+@echo off                                       # Prevents the command prompt from displaying the commands in the script as they run
+echo Running DISM command...                   # Starts The Program
+DISM.exe /Online /Cleanup-image /Restorehealth   # Checks the health of your system image and repairs it if necessary
+echo DISM command completed.                     # Lets you know the program is done.
+pause                                            # Keeps the window open so the user can close it 
