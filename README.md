@@ -13,7 +13,7 @@ This is a simple batch script for Windows that uses the Deployment Image Servici
 
 ## Usage
 
-1. Open a command prompt with administrative privileges.
+1. Open a command prompt with `administrative privileges.`
 2. Navigate to the directory containing the `Deploy Image Servicing & Management.bat` file.
 3. Run the script by typing `Deploy Image Servicing & Management.bat` and pressing Enter.
 
