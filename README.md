@@ -1,23 +1,25 @@
 - ##   there are no issues with this repo, if you want to FORK it GO FORK IT!!!!
 - ##   make account to FORK REPO
-                                        ## READ     ## READ
+
+                                   ## READ EVERYTHING CAREFULLY
                                                       
 # Deploy Image Servicing & Management Batch Script  
 
 This is a simple batch script for Windows that uses the Deployment Image Servicing and Management (DISM) tool to check the health of your system image and repair it if necessary.
            
-                                          ## READ     ## READ
+                                  ## READ EVERYTHING CAREFULLY
 
 # CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
 
-                              ## READ     ## READ
+                                  ## READ EVERYTHING CAREFULLY
+
 ## Usage
 
-1. Open a command prompt with `administrative privileges.`
+1. Open a command prompt with `ADMINISTRATIVE PRIVILEGES.`
 2. Navigate to the directory containing the `Deploy Image Servicing & Management.bat` file.
 3. Run the script by typing `Deploy Image Servicing & Management.bat` and pressing Enter.
 
-                            ## READ     ## READ
+                                ## READ EVERYTHING CAREFULLY
 
 ## What the Script Does
 
