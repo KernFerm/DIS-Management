@@ -1,3 +1,8 @@
+## 🚨 READ EVERYTHING CAREFULLY 🚨
+
+**Make sure to follow the instructions step-by-step for a smooth execution of the script ✅.**
+
+
 ## 📥 How to Download the Repo (First-Time Users)
 
 Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
@@ -49,7 +54,3 @@ DISM.exe /Online /Cleanup-image /Restorehealth   # Checks the health of your sys
 echo DISM command completed.                    # Displays a completion message
 pause                                           # Keeps the window open so the user can close it manually
 ```
-
-## 🚨 READ EVERYTHING CAREFULLY 🚨
-
-**Make sure to follow the instructions step-by-step for a smooth execution of the script ✅.**
