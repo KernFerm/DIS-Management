@@ -60,3 +60,5 @@ DISM.exe /Online /Cleanup-image /Restorehealth   # Checks the health of your sys
 echo DISM command completed.                    # Displays a completion message
 pause                                           # Keeps the window open so the user can close it manually
 ```
+
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
